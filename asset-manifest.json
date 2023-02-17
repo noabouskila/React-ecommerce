@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-ecommerce/static/css/main.898e3e8e.chunk.css",
+    "main.js": "/React-ecommerce/static/js/main.63a14034.chunk.js",
+    "main.js.map": "/React-ecommerce/static/js/main.63a14034.chunk.js.map",
+    "runtime-main.js": "/React-ecommerce/static/js/runtime-main.93ea0b7c.js",
+    "runtime-main.js.map": "/React-ecommerce/static/js/runtime-main.93ea0b7c.js.map",
+    "static/js/2.fec0533c.chunk.js": "/React-ecommerce/static/js/2.fec0533c.chunk.js",
+    "static/js/2.fec0533c.chunk.js.map": "/React-ecommerce/static/js/2.fec0533c.chunk.js.map",
+    "index.html": "/React-ecommerce/index.html",
+    "static/css/main.898e3e8e.chunk.css.map": "/React-ecommerce/static/css/main.898e3e8e.chunk.css.map",
+    "static/js/2.fec0533c.chunk.js.LICENSE.txt": "/React-ecommerce/static/js/2.fec0533c.chunk.js.LICENSE.txt",
+    "static/media/heart.c31d61db.svg": "/React-ecommerce/static/media/heart.c31d61db.svg",
+    "static/media/shopping-cart.25d65fd4.svg": "/React-ecommerce/static/media/shopping-cart.25d65fd4.svg",
+    "static/media/shopping.2c7ddfae.jpg": "/React-ecommerce/static/media/shopping.2c7ddfae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93ea0b7c.js",
+    "static/js/2.fec0533c.chunk.js",
+    "static/css/main.898e3e8e.chunk.css",
+    "static/js/main.63a14034.chunk.js"
+  ]
+}
